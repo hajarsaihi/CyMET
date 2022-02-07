@@ -32,6 +32,6 @@ For step by step tutorials on how to use ```CyMET```, with fine-tuned parameters
 
 [Python - Jupyter notebook: Supervised and Unsupervised analysis of COVID-19 datatsets](https://github.com/shuxiaoc/mario-py/blob/main/tutorials/mario-py-multiple-Xspecies.ipynb)
 
-## <img src="https://github.com/shuxiaoc/mario-py/blob/main/media/yellow.png" width="25" height="25"> License and Citation
+## License and Citation
 
-```MARIO``` is under the [Academic Software License Agreement](https://github.com/shuxiaoc/mario-py/blob/main/LICENSE.txt), please use accordingly.
+```CyMET``` is under the [Academic Software License Agreement](https://github.com/shuxiaoc/mario-py/blob/main/LICENSE.txt), please use accordingly.
