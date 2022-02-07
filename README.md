@@ -1,8 +1,4 @@
 # CyMET: Mass Cytometry Meta Analysis Pipeline
-# MARIO: single-cell proteomic data matching and integration pipeline
-
-<img src="https://github.com/shuxiaoc/mario-py/blob/main/media/giphy_mario.gif" width="100" height="100">
-
 
 ## [<img src="https://github.com/shuxiaoc/mario-py/blob/main/media/red.png" width="25" height="25">](https://www.youtube.com/watch?v=2iNKPkTOr5k&ab_channel=13irth) Description
 
