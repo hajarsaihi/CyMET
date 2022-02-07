@@ -1,2 +1,1 @@
-# CyMET
-Mass Cytometry Meta Analysis Pipeline
+# CyMET: Mass Cytometry Meta Analysis Pipeline
