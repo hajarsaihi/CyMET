@@ -1,7 +1,7 @@
 TERMS AND CONDITIONS FOR USE, COPYING, DISTRIBUTION AND MODIFICATION
 
 Definitions
-“Program” means a copy of OMNeT++, which is said to be distributed under this *Academic Public License*.
+“Program” means a copy of OMNeT++, which is said to be distributed under this **Academic Public License**.
 
 “Work based on the Program” means either the Program or any derivative work under copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term “modification”.)
 
