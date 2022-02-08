@@ -29,9 +29,9 @@ python -m pip install pyCyMET
 ### Full tutorial:
 For step by step tutorials on how to use ```CyMET```, with fine-tuned parameters for optimal results and full functionality, please refer to the documents we provided here:
 
-[Python - Jupyter notebook: Supervised Meta-Prediction of immune cells](https://github.com/shuxiaoc/mario-py/blob/main/tutorials/mario-py-tutorial-BM.ipynb)
+[Python - Jupyter notebook: Supervised meta-prediction of immune cells](https://github.com/startswithH/CyMET/blob/main/tutorials/immunopred_cell_prediction.ipynb)
 
-[Python - Jupyter notebook: Supervised and Unsupervised analysis of COVID-19 datatsets](https://github.com/shuxiaoc/mario-py/blob/main/tutorials/mario-py-multiple-Xspecies.ipynb)
+[Python - Jupyter notebook: Unsupervised analysis of COVID-19 datatsets](https://github.com/shuxiaoc/mario-py/blob/main/tutorials/mario-py-multiple-Xspecies.ipynb)
 
 ## License and Citation
 
