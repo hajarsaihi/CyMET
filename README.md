@@ -3,7 +3,7 @@ Mass **Cy**tometry **Met**a Analysis Pipeline
 
 ## Outline
 
-This github repo includes `CyMET-py` which is a Python package for integrating mass cytometry data. The method is specifically trained for *whole blood* and *peripheral blood mononuclear cell* datasets. For detailed description on the algorithm, including the methods used, and both supervised (meta-prediction) and unsupervised (batch correction and clustering) biomedical applications, please refer to the [paper](https://www.biorxiv.org/content/10.1101/2021.12.03.471185v1).
+This github repo includes `CyMET-py` which is a Python package for integrating mass cytometry data. The method is specifically trained for *whole blood* and *peripheral blood mononuclear cell* datasets. For detailed description on the algorithm, including the methods used, and both supervised (meta-prediction) and unsupervised (batch correction and clustering) biomedical applications, please refer to the [paper](https://www.biorxiv.org).
 
 This work is developed by Hajar Saihi (PhD) from [Bessant Lab](https://bezzlab.github.io/) @DERI Institute, QMUL.
 
