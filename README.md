@@ -35,4 +35,4 @@ For step by step tutorials on how to use ```CyMET```, with fine-tuned parameters
 
 ## License and Citation
 
-```CyMET``` is under the [Academic Software License Agreement](https://github.com/shuxiaoc/mario-py/blob/main/LICENSE.txt), please use accordingly.
+```CyMET``` is under the [Academic Software License Agreement](https://github.com/startswithH/CyMET/blob/main/LICENSE.md), please use accordingly.
