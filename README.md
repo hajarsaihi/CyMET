@@ -7,6 +7,8 @@ This github repo includes `CyMET-py` which is a Python package for integrating m
 
 This work is developed by Hajar Saihi (PhD) based at the [Alazawi Lab](https://www.qmul.ac.uk/blizard/all-staff/profiles/william-alazawi.html) @BlizardInstitute and [Bessant Lab](https://bezzlab.github.io/) @DERI at Queen Mary University of London.
 
+![alt text](https://github.com/startswithH/CyMET/blob/main/images/pipeline_outline.png)
+
 
 ## Getting Started
 ### Dependencies
