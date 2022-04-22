@@ -21,10 +21,10 @@ conda create -n cymet python=3.8
 
 ### Installing
 
-To install ```CyMET```, we can easily install it with ```pip``` function (package name ```pyCyMET```):
+To install ```CyMET```, we can easily install it with ```pip``` function (package name ```CyMET```):
 
 ```{bash}
-python -m pip install pyCyMET
+python -m pip install ## make sure this works
 ```
 
 
