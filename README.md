@@ -15,10 +15,11 @@ For step by step tutorials on how to use ```CyMET```, with fine-tuned parameters
 
 (1) The first notebook allows for fully automated identification of immune cells using Immunopred. This notebook takes pre-cleaned csv files with markers as the columns and events as the rows and outputs the identified cell type for each event.
 
-[Python - Jupyter notebook: Identification of immune cells](https://github.com/startswithH/CyMET/blob/main/tutorials/Immunopred%20Prediction.ipynb)
+    [Python - Jupyter notebook: Identification of immune cells](https://github.com/startswithH/CyMET/blob/main/tutorials/Immunopred%20Prediction.ipynb)
 
 (2) The notebook below integrates both batch correction and clustering methods for supervised and unsupervised identification of cells. The quality of the results depends on the overlap in markers between studies.
-[Python - Jupyter notebook: CyMET on COVID-19 data](https://github.com/startswithH/CyMET/blob/main/tutorials/CyMET%20on%20COVID-19.ipynb)
+
+    [Python - Jupyter notebook: CyMET on COVID-19 data](https://github.com/startswithH/CyMET/blob/main/tutorials/CyMET%20on%20COVID-19.ipynb)
 
 ## License and Citation
 
