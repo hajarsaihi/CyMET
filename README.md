@@ -8,29 +8,16 @@ This github repo includes `CyMET-py` which is a Python package for integrating m
 This work is developed by Hajar Saihi (PhD) based at the [Alazawi Lab](https://www.qmul.ac.uk/blizard/all-staff/profiles/william-alazawi.html) @BlizardInstitute and [Bessant Lab](https://bezzlab.github.io/) @DERI at Queen Mary University of London.
 
 ![alt text](https://github.com/startswithH/CyMET/blob/main/images/summary_figure.png)
-## Getting Started
-### Dependencies
-
-For easy usage, we suggest builing a ```conda``` virtualenv with ```python = 3.8```.
-
-```{bash}
-conda create -n cymet python=3.8
-```
-
-### Installing
-
-To install ```CyMET```, we can easily install it with ```pip``` function (package name ```CyMET```):
-
-```{bash}
-python -m pip install ## make sure this works
-```
 
 
 ### Full tutorial:
 For step by step tutorials on how to use ```CyMET```, with fine-tuned parameters for optimal results and full functionality, please refer to the documents we provided here:
 
-[Python - Jupyter notebook: Meta-prediction of immune cells](https://github.com/startswithH/CyMET/blob/main/tutorials/Immunopred%20Prediction.ipynb)
+(1) The first notebook allows for fully automated identification of immune cells using Immunopred. This notebook takes pre-cleaned csv files with markers as the columns and events as the rows and outputs the identified cell type for each event.
 
+[Python - Jupyter notebook: Identification of immune cells](https://github.com/startswithH/CyMET/blob/main/tutorials/Immunopred%20Prediction.ipynb)
+
+(2) The notebook below integrates both batch correction and clustering methods for supervised and unsupervised identification of cells. The quality of the results depends on the overlap in markers between studies.
 [Python - Jupyter notebook: CyMET on COVID-19 data](https://github.com/startswithH/CyMET/blob/main/tutorials/CyMET%20on%20COVID-19.ipynb)
 
 ## License and Citation
