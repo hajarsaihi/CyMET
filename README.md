@@ -1,5 +1,5 @@
 # CyMET 
-Mass **Cy**tometry **Met**a Analysis Pipeline
+Mass **Cy**tometry **Met**a Analysis Pipeline using deep learning
 
 ## Outline
 
